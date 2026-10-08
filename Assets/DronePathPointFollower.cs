@@ -60,7 +60,7 @@ public class DronePathPointFollower : MonoBehaviour
 
     void StopStartDrones()
     {
-        if(Input.GetKeyDown(KeyCode.G)) //press G to start and stop the drones with this script
+        if(Input.GetKeyDown(KeyCode.G)) //press G to start and stop the drones
         {
             isStopped = !isStopped;
         }
