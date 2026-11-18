@@ -1,0 +1,95 @@
+# FUTURICE DRONE (DRN-X4) Material Library for Unity3D
+# Generated for Wavefront .OBJ Import
+
+newmtl HullArmorGrey
+Ka 0.1000 0.1000 0.1000
+Kd 0.0595 0.0704 0.0887
+Ks 0.5000 0.5000 0.5000
+Ns 320.0
+d 1.0
+illum 2
+
+newmtl DarkChassisMetal
+Ka 0.1000 0.1000 0.1000
+Kd 0.0144 0.0176 0.0242
+Ks 0.5000 0.5000 0.5000
+Ns 290.0
+d 1.0
+illum 2
+
+newmtl CarbonFiber
+Ka 0.1000 0.1000 0.1000
+Kd 0.0252 0.0307 0.0423
+Ks 0.5000 0.5000 0.5000
+Ns 340.0
+d 1.0
+illum 2
+
+newmtl ChromeSteel
+Ka 0.1000 0.1000 0.1000
+Kd 0.3564 0.3968 0.4793
+Ks 0.5000 0.5000 0.5000
+Ns 410.0
+d 1.0
+illum 2
+
+newmtl CopperPipe
+Ka 0.1000 0.1000 0.1000
+Kd 0.6939 0.1845 0.0369
+Ks 0.5000 0.5000 0.5000
+Ke 0.0232 0.0052 0.0012
+Ns 390.0
+d 1.0
+illum 2
+
+newmtl RedCable
+Ka 0.1000 0.1000 0.1000
+Kd 0.7157 0.0194 0.0194
+Ks 0.5000 0.5000 0.5000
+Ke 0.0296 0.0018 0.0018
+Ns 260.0
+d 1.0
+illum 2
+
+newmtl HazardStripes
+Ka 0.1000 0.1000 0.1000
+Kd 0.9560 0.6038 0.0075
+Ks 0.5000 0.5000 0.5000
+Ns 275.0
+d 1.0
+illum 2
+
+newmtl DecalBadge
+Ka 0.1000 0.1000 0.1000
+Kd 0.7605 0.8070 0.8714
+Ks 0.5000 0.5000 0.5000
+Ns 350.0
+d 1.0
+illum 2
+
+newmtl EmissiveCyan
+Ka 0.1000 0.1000 0.1000
+Kd 0.0000 0.7835 1.0000
+Ks 0.5000 0.5000 0.5000
+Ke 0.0000 0.4793 1.0000
+Ns 425.0
+d 1.0
+illum 2
+
+newmtl EmissiveOrange
+Ka 0.1000 0.1000 0.1000
+Kd 1.0000 0.2462 0.0000
+Ks 0.5000 0.5000 0.5000
+Ke 1.0000 0.1329 0.0000
+Ns 425.0
+d 1.0
+illum 2
+
+newmtl OpticalLensGlass
+Ka 0.1000 0.1000 0.1000
+Kd 0.0030 0.0097 0.0284
+Ks 0.5000 0.5000 0.5000
+Ns 460.0
+d 1.0
+illum 2
+
